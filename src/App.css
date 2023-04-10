@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.add-book{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    
+    
+}
+.book-detail{
+    
+    width: 250px;
+margin-left: 20px;
+height: 600px;
+}
+.home{
+    text-align: center;
+}
+.detail-list{
+  
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
